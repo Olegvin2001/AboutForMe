@@ -229,6 +229,16 @@
     <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/avto-vykup-nn.ru_uslugi_avtovykupa_vykup_avtomobiley_vykup_avto_posle_dtp_(iPhone%2014%20Pro%20Max).png" alt="Страница услуг мобильная" />
   </a> 
   </p>
+   <h4> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" /> Landing на конструкторах: "Сайты автовыкупа" </h4>
+    <ul>
+      <li> 🔗 Ссылка на сайты автовыкупов:
+        <ul>
+          <li><a href="https://autovykup-nn.ru/">autovykup-nn.ru</a></li>
+          <li><a href="https://auto-vykup-nn.ru/">auto-vykup-nn.ru</a></li>
+        </ul>
+      </li>  
+    </ul>
+      Создание сайтов на конструкторах для последующего привлечения рекламного трафика и получения заявок с сайта. Сделана интеграция получения уведомления о заявках в ТГ. Настроены системы аналитики.
   </details>
 </details> 
 <details> 

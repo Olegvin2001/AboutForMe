@@ -71,16 +71,29 @@
 </p>
 
 # 📃 Сертификаты и обучение:
-Обладаю коммерческим опытом работы с 1С-Битрикс, совмещая задачи SEO-специалиста и веб-разработчика. Также вёл фриланс-проекты «под ключ» — от общения с клиентом до запуска и сопровождения сайта. Выполнял как контентные, так и технические задачи, внедрял собственные идеи по улучшению SEO и повышению эффективности сайтов. Хочу стать частью команды, где смогу применить свои знания и продолжать развиваться в сфере веб-разработки. Стремлюсь к профессиональному росту, решению нестандартных задач и постоянному расширению компетенций.<br>
+### 🔷 Высшее образование
++ ННГУ им. Лобачевского, Радиофизический факультет
++ Специальность: «Информационная безопасность телекоммуникационных систем»
+### 🎓 Профессиональные сертификаты
++ Яндекс | Специалист по Яндекс.Метрике
++ 1С-Битрикс | Сертифицированный специалист: «Контент-менеджер»
++ 1С-Битрикс | Сертифицированный специалист: «SEO (Маркетинг)
+### 📚 Повышение квалификации и курсы
++ Цифровая трансформация: Прошел программу профессиональной переподготовки "Технологии цифровой трансформации: виртуальная и дополненная реальность, 3d-моделирование, системы распределенного реестра".
++ Веб-разработка: Изучил основы и углубил знания на онлайн-курсах по HTML, CSS, PHP и Bitrix.
+<br>
 <div align="center">
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://dev.1c-bitrix.ru/certificates/learning.php?course=34"><img src="https://dev.1c-bitrix.ru/certificates/learning.php?course=34/?id=1lXaKEy97qE&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="GitHub Star Swag Unboxing and Giveaways"></a>
-<a href="https://www.youtube.com/watch?v=maoXtlb8t44"><img src="https://ytcards.demolab.com/?id=maoXtlb8t44&title=How+To+Self-Host+GitHub+Readme+Streak+Stats+on+Vercel&lang=en&timestamp=1693523015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=257" alt="How To Self-Host GitHub Readme Streak Stats on Vercel" title="How To Self-Host GitHub Readme Streak Stats on Vercel"></a>
-<a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
-<a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
-<a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
-<a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
-<!-- END YOUTUBE-CARDS -->
+<!-- BEGIN SERF-CARDS -->
+<a href="https://dev.1c-bitrix.ru/certificates/learning.php?course=34">
+  <img width="250px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/serfVinokurov.png" title="Сертификат Винокуров Битрикс Контент-менеджер">
+</a>
+<a href="https://dev.1c-bitrix.ru/certificates/learning.php?course=139">
+  <img width="250px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/serfVinSEO.png" alt="Сертификат Винокуров Битрикс SEO" title="Сертификат Винокуров Битрикс SEO">
+</a>
+<a href="https://yandex.ru/adv/expert/certificates?certId=290948&lastname=%D0%92%D0%B8%D0%BD%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D0%B2">
+  <img width="250px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/serfVinYandex.png" alt="Сертификат Винокуров Я.Метрика" title="Сертификат Винокуров Я.Метрика">
+</a>
+<!-- END SERF-CARDS -->
 </div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 

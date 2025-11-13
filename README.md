@@ -107,7 +107,7 @@
     <summary><h3>💵 Коммерческий опыт</h3></summary>
 
   </details>
-  <details> 
+  <details open> 
     <summary>
       <h3>🪪 Личный опыт | Фриланс</h3>
     </summary>
@@ -144,6 +144,7 @@
     </ol>
  Последующее полное сопровождение сайта, создание SEO статей, индексация, снятие позиций, отчтёность по трафику и лидам.
  <h5>🔗 Ссылка на результаты</h5>
+  <br>  
     <p align="center">
   <a href="https://lor-bor.ru">
     <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/lor-bor.png" alt="lor-bor" />
@@ -153,7 +154,7 @@
   </a>    
 </p>
     <br>
- <h4> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /> Проект: "Сайт компании по услугам эвакуации автомобилей" </h4>
+ <h4 id="Evik"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /> Проект: "Сайт компании по услугам эвакуации автомобилей" </h4>
     <ul>
       <li> Роль: Менеджер проекта, Bitrix разработчик, SEO-специалист</li>
       <li> 🔗 Ссылка на сайт: <a href="https://avto-vykup-nn.ru/">Эвакуатор</a></li>
@@ -188,6 +189,7 @@
       </ul>
     </ol>
     <h5>🔗 Ссылка на результаты</h5>
+    <br>
     <p align="center">
   <a href="https://evakuator-bor.ru">
     <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/evakuator-bor.ru_.png" alt="Эвакуатор" />
@@ -198,8 +200,34 @@
   <a href="https://evakuator-bor.ru">
     <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/reviews.png" alt="Блок с отзывами" />
   </a>      
-</p>
+  </p>
+  <br>
+ <h4> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /> Проект: "Сайт выкупа автомобилей" </h4>
+    <ul>
+      <li> 🔗 Ссылка на сайт: <a href="https://avto-vykup-nn.ru/">Эвакуатор</a></li>
+    </ul>
+    <h4> Ключевые задачи и реализация: </h4>  
+    <ul>
+      <li> Аналогичные работы <a href="#Evik"> сайта эвакуатора</li>
+      <li> Создание рекламной кампании в Я.Директ</li>
+      <li> Сбор ключевых фраз, настройка групп и объявлений, промо и аналитика</li>
+    </ul>
+    <h5>🔗 Ссылка на результаты</h5>
     <br>
+    <p align="center">
+  <a href="https://avto-vykup-nn.ru/">
+    <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/avto-vykup-nn.ru_.png" alt="Автовыкуп" />
+  </a>
+  <a href="https://avto-vykup-nn.ru/">
+    <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/avto-vykup-nn.ru_catalog_legkovye_avto_mazda_3_.png" alt="Страница выкупленных авто" />
+  </a> 
+  <a href="https://avto-vykup-nn.ru/">
+    <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/avto-vykup-nn.ru-glav.png" alt="Продолжение главной" />
+  </a>
+  <a href="https://avto-vykup-nn.ru/">
+    <img width="500px" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/avto-vykup-nn.ru_uslugi_avtovykupa_vykup_avtomobiley_vykup_avto_posle_dtp_(iPhone%2014%20Pro%20Max).png" alt="Страница услуг мобильная" />
+  </a> 
+  </p>
   </details>
 </details> 
 <details> 

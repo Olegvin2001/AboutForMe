@@ -10,11 +10,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/VinDetail"><img width="50px" alt="Telegram" title="Telegram" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/tg.png"/></a>
+  <a href="https://t.me/VinDetail"><img width="40px" alt="Telegram" title="Telegram" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/tg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://api.whatsapp.com/send/?phone=79101289332"><img width="50px" alt="WhatsApp" title="WhatsApp" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/whtsapp.png"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=79101289332"><img width="40px" alt="WhatsApp" title="WhatsApp" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/whtsapp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/vinokurov_7?igsh=dzQ5bW5kazJsb2gx&utm_source=qr"><img width="50px" alt="Instagram" title="Instagram" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/InstVin.png"/></a>
+  <a href="https://www.instagram.com/vinokurov_7?igsh=dzQ5bW5kazJsb2gx&utm_source=qr"><img width="40px" alt="Instagram" title="Instagram" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/InstVin.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br>

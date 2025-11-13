@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://api.whatsapp.com/send/?phone=79101289332"><img width="50px" alt="WhatsApp" title="WhatsApp" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/whtsapp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/vinokurov_7?igsh=dzQ5bW5kazJsb2gx&utm_source=qr"><img width="50px" alt="Instagram" title="Instagram" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/Inst.png"/></a>
+  <a href="https://www.instagram.com/vinokurov_7?igsh=dzQ5bW5kazJsb2gx&utm_source=qr"><img width="50px" alt="Instagram" title="Instagram" src="https://github.com/Olegvin2001/Olegvin2001/blob/main/.github/images/InstVin.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br>
